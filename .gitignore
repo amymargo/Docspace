@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+documents.db
+.DS_Store
