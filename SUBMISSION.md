@@ -1,12 +1,11 @@
 # Submission contents
 
 - `server.py` — Python HTTP server and SQLite-backed JSON API
-- `static/index.html`, `static/style.css`, `static/app.js` — browser application
-- `tests/test_app.py` — API workflow test
-- `README.md` — setup, run, import, demo accounts, test, and deployment instructions
-- `ARCHITECTURE.md` — architecture and prioritization note
-- `AI_WORKFLOW.md` — AI usage and verification note
-- `LIVE_URL.txt` — deployment status
-- `WALKTHROUGH_URL.txt` — walkthrough recording status
-
-This source folder does not yet contain a live deployment URL, walkthrough recording, Google Drive folder link, screenshots, or demo GIF.
+- `static/` — browser application assets
+- `tests/test_app.py` — automated API workflow tests
+- `README.md` — live demo, local setup, demo accounts, supported features, and deployment caveats
+- `ARCHITECTURE.md` — architecture, implementation decisions, and limitations
+- `AI_WORKFLOW.md` — AI tools, workflow, review decisions, and verification
+- `requirements.txt`, `.python-version` — deployment runtime configuration
+- `LIVE_URL.txt` — live product URL: https://docspace-djcw.onrender.com/
+- `WALKTHROUGH_URL.txt` — walkthrough video status and suggested flow

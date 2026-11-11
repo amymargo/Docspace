@@ -1,1 +1,0 @@
-Not recorded yet. Suggested 3–5 minute flow: create a document, format text, import a Markdown file, reload/reopen, share with Alex, switch accounts to show read-only shared access, then describe scope and architecture.
