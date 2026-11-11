@@ -8,4 +8,4 @@
 - `AI_WORKFLOW.md` — AI tools, workflow, review decisions, and verification
 - `requirements.txt`, `.python-version` — deployment runtime configuration
 - `LIVE_URL.txt` — live product URL: https://docspace-djcw.onrender.com/
-- `WALKTHROUGH_URL.txt` — walkthrough video status and suggested flow
+- `WALKTHROUGH_URL.txt` — Youtube video URL: https://youtu.be/jr-p_ADXP0E

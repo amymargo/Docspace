@@ -2,6 +2,10 @@
 
 A lightweight shared document editor focused on the essentials: creating and editing documents, saving them, importing text, attaching images, and sharing work with teammates.
 
+## Watch the walkthrough video on Youtube
+
+**Walkthrough Video:** https://youtu.be/jr-p_ADXP0E
+
 ## Try the live demo
 
 **Live app:** https://docspace-djcw.onrender.com/
